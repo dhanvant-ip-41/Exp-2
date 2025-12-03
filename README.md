@@ -22,11 +22,11 @@ List of Diagrams -:
 6. Sequence Diagram
 
 Procedure-:
-Define System Requirements: Outline the functional and non-functional requirements, such as user authentication and transaction processing.
-Identify Key Actors and Use Cases: Determine actors and define their interactions.
-Design the System Architecture: Break down the system into components
-Create UML Diagrams: Develop use case, class, sequence, and activity diagrams based on the system design.
-Test and Validate: Perform testing to ensure the system meets functional requirements and security standards.
+1. Define System Requirements: Outline the functional and non-functional requirements, such as user authentication and transaction processing.
+2. Identify Key Actors and Use Cases: Determine actors and define their interactions.
+3. Design the System Architecture: Break down the system into components
+4. Create UML Diagrams: Develop use case, class, sequence, and activity diagrams based on the system design.
+5. Test and Validate: Perform testing to ensure the system meets functional requirements and security standards.
 
 # DIAGRAMS:
 
